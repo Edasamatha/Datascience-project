@@ -88,21 +88,19 @@ Based on statistical evidence, the project provides:
 
 
 
-Project Demo / Video
-
-
-
 
 🛠️ Technologies Used
 
-Python / R
 
-Pandas / NumPy
 
-SciPy / StatsModels
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
+  Python / R
+  
+  Pandas / NumPy
+  
+  SciPy / StatsModels
+  
+  Matplotlib / Seaborn
+  
+  Jupyter Notebook
 
 
